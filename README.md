@@ -12,4 +12,4 @@ The setting up is very simple..
 
 # Enjoy!
 
-Whats deferent here: if the exchange doesn't have the liquidity to withdraw the money to a stake holders, it gives it back in the other token (at the correct amount according to the rate.)
+Whats deferent here: if the exchange doesn't have the liquidity to withdraw the tokens to a stake holder, it gives it back in the other token (at the correct amount according to the rate.)
